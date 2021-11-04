@@ -27,8 +27,8 @@ Happy is an application that connects people to institutional care homes to make
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54922299/139534247-05fa213f-3c56-42b9-8b28-bdee158fbab4.png" width="400px">
   <img src="https://user-images.githubusercontent.com/54922299/139534265-47ef7722-0d62-4f49-9030-3bce768e78f8.png" width="400px">
-  <img src="https://user-images.githubusercontent.com/54922299/139534266-cd3a13ab-a3ec-42fb-bb97-2caa301e4a1f.png" width="400px">
-  <img src="https://user-images.githubusercontent.com/54922299/139534270-4ec24090-9ff2-4d12-80e4-ebdb2e1b5c05.png" width="415px">
+  <img src="https://user-images.githubusercontent.com/54922299/139534266-cd3a13ab-a3ec-42fb-bb97-2caa301e4a1f.png" width="350px">
+  <img src="https://user-images.githubusercontent.com/54922299/139534270-4ec24090-9ff2-4d12-80e4-ebdb2e1b5c05.png" width="365px">
 </div>
 
 
@@ -65,7 +65,6 @@ BackEnd: yarn dev
 
 ```
 
-:heart:
 
 
 
